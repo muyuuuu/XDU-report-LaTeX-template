@@ -55,3 +55,6 @@
   \end{center}
   \newpage
 }
+
+% 环境
+\newenvironment{note}{\kaishu 注：}{}
