@@ -2,10 +2,10 @@
 \LoadClass[a4paper,12pt]{ctexart}
 \RequirePackage{graphicx}
 \RequirePackage{geometry}
-\usepackage{fontspec}
-\usepackage{fancyhdr}
-\usepackage{lipsum}
-\usepackage{zhlipsum}
+\RequirePackage{fontspec}
+\RequirePackage{fancyhdr}
+\RequirePackage{lipsum}
+\RequirePackage{zhlipsum}
 % \setmainfont{texgyrepagella-regular.otf} 
 \setmainfont{Times New Roman}
 \bibliographystyle{IEEEtran}
