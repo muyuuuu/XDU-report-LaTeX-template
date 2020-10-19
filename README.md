@@ -15,7 +15,6 @@
  
 ```bash
 XDU-exp
-├─ books.bib                                # 参考文献的 bib 文件
 ├─ chapter                                  # 各个章节
 │    ├─ abstract.tex                            # 摘要页
 │    ├─ appendix.tex                            # 附录
@@ -25,6 +24,7 @@ XDU-exp
 ├─ figure                                   # 图片文件
 │    ├─ xdubadge.eps                            # 西电文字
 │    └─ xdulogo.eps                             # 西电校徽 logo
+├─ books.bib                                # 参考文献的 bib 文件
 ├─ main.bbl                                 # 编译生成的 bbl 文件，不用管
 ├─ main.pdf                                 # 结果 pdf 文件
 ├─ main.tex                                 # 要编译的主文件
@@ -33,5 +33,6 @@ XDU-exp
 
 # 其他
 
+- 代码字体为 `IBM Plex Mono`，没有的话换一个或下载安装；
 - 我是计算机学院的，对其他学院的了解很少，如果有其他建议，欢迎补充～
 - 也可以来这里下载，下载一次我能挣一毛钱，顺便帮这个网站引流：https://latexstudio.net/index/details/index/mid/870.html
