@@ -77,14 +77,14 @@
 \definecolor{CPPViolet} {HTML} {7040A0}
 \definecolor{CPPGray}  {HTML} {B8B8B8}
 \lstset{
-	basicstyle=\scriptsize\ttfamily,
+  basicstyle=\scriptsize\ttfamily,
+  numbers=left,
+  numberstyle=\scriptsize\ttfamily,
 	breaklines=true,
-	frame=breaklines,
 	columns=fixed,       
-	frame=tb,                                          % 不显示背景边框
-	backgroundcolor=\color[RGB]{255,255,255},            % 设定背景颜色
+	frame=tblr,                                          % 四条边框
+	backgroundcolor=\color[RGB]{250,250,250},            % 设定背景颜色
 	keywordstyle=\color[RGB]{40,40,255},                 % 设定关键字颜色
-	numberstyle=\footnotesize\color{darkgray},           % 设定行号格式
 	commentstyle=\itshape\color[RGB]{0,96,96},                % 设置代码注释的格式
 	stringstyle=\slshape\color[RGB]{128,0,0},   % 设置字符串格式
 	showstringspaces=false,                              % 不显示字符串中的空格
