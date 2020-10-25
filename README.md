@@ -24,6 +24,8 @@ XDU-exp
 ├─ figure                                   # 图片文件
 │    ├─ xdubadge.eps                            # 西电文字
 │    └─ xdulogo.eps                             # 西电校徽 logo
+├─ code                                     # 代码文件
+│    └─ demo.c                                  # 一个C语言样例代码
 ├─ books.bib                                # 参考文献的 bib 文件
 ├─ main.bbl                                 # 编译生成的 bbl 文件，不用管
 ├─ main.pdf                                 # 结果 pdf 文件
