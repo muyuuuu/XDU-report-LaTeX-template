@@ -9,6 +9,8 @@
 - 图片大小、文字大小不合适你都可以调，cls代码简洁明了。
 - 想添加内容也很简单，比如在封面添加「指导教师」这一项，你看看其他选项如何声明并传参的就可以了，很简单。
 
+更多样式请点击这里：https://muyuuuu.github.io/2020/10/20/XDU-report-LaTeX-template/
+
 # 文档目录与编译方式
 
 `windows` 和 `Arch Linux` 都跑通了，`TexLive 2020`，编译方式为 `xelatex` 配 `bibtex`。
