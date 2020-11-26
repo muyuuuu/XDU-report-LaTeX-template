@@ -35,7 +35,7 @@ XDU-exp
 └─ xdureport.cls                            # 要导入的文档类
 ```
 
-如果实在看不懂代码，等作业结束后，我会在[release](https://github.com/muyuuuu/XDU-report-LaTeX-template/releases/tag/1.0)里样例。
+如果实在看不懂代码，等作业结束后，我会在[release](https://github.com/muyuuuu/XDU-report-LaTeX-template/releases/tag/1.0)里放一个样例。
 
 # 其他
 
