@@ -61,7 +61,7 @@
     \Large{\@date}
   \end{center}
   \newpage
-  \newgeometry{top=1.25in}
+  \newgeometry{top=1.25in,bottom=1.25in,left=1.25in,right=1.25in}
 }
 
 % 环境
