@@ -14,6 +14,7 @@
 % 设置等宽的代码字体
 % \setmonofont{Courier New}
 \setmonofont{IBM Plex Mono}
+% \setmonofont{Source Code Pro}
 \bibliographystyle{IEEEtran}
 
 \geometry{top=1.25in,bottom=1.25in,left=1.25in,right=1.25in}
@@ -44,7 +45,7 @@
     \vspace{1cm}
     \bfseries\huge{\@course}\\
     \vspace{0.5cm}
-    \bfseries\Large{实验名称：\@expname}
+    \bfseries\Large{\@expname}
     \vspace{2cm}
     \begin{center}
       \large
@@ -78,11 +79,11 @@
 \definecolor{CPPGray}  {HTML} {B8B8B8}
 \lstset{
   basicstyle=\scriptsize\ttfamily,
-  numbers=left,
+  % numbers=left,
   numberstyle=\scriptsize\ttfamily,
 	breaklines=true,
 	columns=fixed,       
-	frame=tblr,                                          % 四条边框
+	frame=bt,                                          % 四条边框
 	backgroundcolor=\color[RGB]{250,250,250},            % 设定背景颜色
 	keywordstyle=\color[RGB]{40,40,255},                 % 设定关键字颜色
 	commentstyle=\itshape\color[RGB]{0,96,96},                % 设置代码注释的格式
