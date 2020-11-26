@@ -35,6 +35,8 @@ XDU-exp
 └─ xdureport.cls                            # 要导入的文档类
 ```
 
+如果实在看不懂代码，[release](https://github.com/muyuuuu/XDU-report-LaTeX-template/releases/tag/1.0)里有样例。
+
 # 其他
 
 - 代码字体为 `IBM Plex Mono`，没有的话换一个或下载安装；
