@@ -37,10 +37,10 @@
 % 封面
 \newcommand{\makecover}{
   \thispagestyle{empty}
+  \newgeometry{top=0.5in}
   \begin{center}
     \begin{center}
-      \includegraphics[width=4cm]{figure/xdulogo.eps}\\
-      \includegraphics[width=12cm]{figure/xdubadge.eps}
+      \includegraphics[width=10cm]{figure/3.jpg}
     \end{center}
     \vspace{1cm}
     \bfseries\huge{\@course}\\
@@ -61,6 +61,7 @@
     \Large{\@date}
   \end{center}
   \newpage
+  \newgeometry{top=1.25in}
 }
 
 % 环境

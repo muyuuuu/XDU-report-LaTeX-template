@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}开始实验}{1}%
+\contentsline {section}{\numberline {2}实验结果分析}{1}%
+\contentsline {section}{参考文献}{2}%
+\contentsline {section}{附录A：遇到问题及解决方案}{3}%
+\contentsline {section}{A.1：数据无法序列化}{3}%
+\contentsline {section}{附录B：实验程序相关文件}{3}%

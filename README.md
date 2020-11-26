@@ -22,8 +22,10 @@ XDU-exp
 │    ├─ experiment.tex                          # 实验步骤
 │    └─ reference.tex                           # 参考文献
 ├─ figure                                   # 图片文件
-│    ├─ xdubadge.eps                            # 西电文字
-│    └─ xdulogo.eps                             # 西电校徽 logo
+│    ├─ 1.jpg                                   # 西电logo
+│    ├─ 2.jpg                                   # 西电logo和文字并排
+│    ├─ 3.jpg                                   # 西电logo和文字竖排
+│    └─ 4.jpg                                   # 西电文字
 ├─ code                                     # 代码文件
 │    └─ demo.c                                  # 一个C语言样例代码
 ├─ books.bib                                # 参考文献的 bib 文件
