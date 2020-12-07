@@ -1,4 +1,4 @@
-中文|英文
+[简体中文](https://github.com/muyuuuu/XDU-report-LaTeX-template/blob/main/README-zh.md)|[English](https://github.com/muyuuuu/XDU-report-LaTeX-template/blob/main/README.md)
 
 # Intro
 
