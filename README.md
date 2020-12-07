@@ -48,14 +48,14 @@ XDU-exp
 
 # Intro
 
-The latex template of experiment report, XDU. Note: The template is designed by myself which only adds basic items as required by my teacher. So, it's not **not official**. I have came here for a month and didn't find a template with specific format. **Don't use this template if your teacher has a clear claim.**
+The latex template of experiment report, XDU. Note: The template is designed by myself which only adds basic items as required by my teacher. So, it's **not official**. I have came here for a month and didn't find a template with specific format. **Don't use this template if your teacher has a clear claim.**
 
-The code's target is simple, applicable and easy to expand, so:
+The template's target is simple, applicable and easy to expand, so:
 
-- In `.cls` file, the figure size and font size can be modified easily.
-- You can imitate how the current items is added if you want add other items such as supervisor.
+- In `.cls` file, the figure size and font family can be modified easily.
+- You can imitate how the current items are added if you want add other items such as supervisor.
 
-Here is the more details of the style: https://muyuuuu.github.io/2020/10/20/XDU-report-LaTeX-template/
+Here is the more details of the template: https://muyuuuu.github.io/2020/10/20/XDU-report-LaTeX-template/
 
 # Files structure and compilation method
 
@@ -85,6 +85,6 @@ XDU-exp
 
 # Others
 
-- The font of code is `IBM Plex Mono`, you can download and install it, or replace it with other mono font.
+- The font of code is `IBM Plex Mono`, you can download and install it, or replace it with other fixed width font.
 - The logo of XDU is from here:  https://xcb.xidian.edu.cn/info/1008/1094.htm
 - I am from computer science college so this template may not meet the requirements of other colleges. If there are other suggestions, please new issue or PR.
